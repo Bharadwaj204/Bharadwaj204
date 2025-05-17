@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vaniganipalli Bharadwaj
+# 👋 Hi, I'm V.Bharadwaj
 
 🎓 Aspiring AI/ML Engineer | 💡 Passionate about building smart solutions with data
 
