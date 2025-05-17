@@ -27,22 +27,6 @@
 
 ---
 
-## 🚀 Projects
-
-- **AgriWISE** – Crop recommendation using AI  
-  _Python, Pandas, NumPy_  
-  [GitHub Repo](https://github.com/your-repo) | [Live Demo](https://your-demo-link)
-
-- **Resume-Job Matcher** – NLP-based resume shortlisting  
-  _Python, NLP, Scikit-learn, Streamlit_  
-  [GitHub Repo](https://github.com/your-repo) | [Live Demo](https://your-demo-link)
-
-- **GitHub Repos Viewer** – Shows popular GitHub repos by language  
-  _React.js, Bootstrap_  
-  [GitHub Repo](https://github.com/your-repo) | [Live Demo](https://your-demo-link)
-
----
-
 ## 📜 Certifications
 
 - Minor Degree in Artificial Intelligence – IIT Mandi (Ongoing)  
@@ -50,8 +34,6 @@
 
 ---
 
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** I code better with lo-fi beats and cold coffee!
 
 <!---
 Bharadwaj204/Bharadwaj204 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
